@@ -5,11 +5,11 @@
 
 - 🏫 I'm currently a student from [National Cheng Kung University](https://www.ncku.edu.tw)
 
-- 🔭 I’m currently working on [DEVCORE](https://devco.re) Red Team Intern and [III CSTI](https://web.iii.org.tw/About/Department.aspx?fm_sqno=36&dp_sqno=7) Intern
+- 🔭 I’m currently working on [DEVCORE](https://devco.re) Red Team Intern
 
 - Co-Founder of [@B33F_50UP](https://www.instagram.com/nckuctf/)
 
-- 📝 I regularly write articles on [https://blog.trianglesnake.com](https://blog.trianglesnake.com)
+- 📝 I regularly write articles on [https://trianglesnake.com](https://trianglesnake.com)
 
 - 📫 How to reach me **trianglesnake2002@gmail.com**
 
